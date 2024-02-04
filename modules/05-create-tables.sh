@@ -15,5 +15,5 @@ function typewriter
 }
 
 typewriter "
-Coming soon...
+Ok...now we are dealing with tables. This will be much more involved than any of the previous modules, but once you understand this lesson, you will have a solid foundation for working with SQL.
 " .03
