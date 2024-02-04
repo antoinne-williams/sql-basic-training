@@ -67,7 +67,7 @@ CREATE TABLE employees (
   hire_date DATE NOT NULL,
   phone_number CHAR(14) UNIQUE,
   email_address VARCHAR(100),
-  job_title VARCHAR(50) NOT NULL
+  job_title VARCHAR(50) NOT NULL,
   PRIMARY KEY (id)
 );
 
