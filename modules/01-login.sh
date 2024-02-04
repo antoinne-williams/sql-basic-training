@@ -30,4 +30,4 @@ Once you run the command above and login, you will switch from your original she
 You will also be able to run MySQL commands now. This is the shell that we will need for the MySQL training.
 
 To exit MySQL after logging in. Type 'exit' and hit enter.
-" .005
+" .03

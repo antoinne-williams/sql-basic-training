@@ -50,4 +50,4 @@ In this module, you have learned how to:
   - SELECT a DATABASE to interact with
   - SHOW TABLES which exist from within a SELECTED DATABASE
   - Queried data from a SELECTED DATABASE'S TABLE
-" .005
+" .03
