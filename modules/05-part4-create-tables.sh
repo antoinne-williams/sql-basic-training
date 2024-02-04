@@ -38,7 +38,7 @@ But wait...in the words of Uncle Chan from Jackie Chan Adventures...one mooooore
 
 We have determined that we also want:
   > COLUMN: id, which is REQUIRED and UNIQUE. 
-            It will always be a NUMBER and let's set a max of 4 characters.
+            It will always be a NUMBER.
             In MySQL, we will need to set the COLUMN as NOT NULL, 
             then set the PRIMARY KEY CONSTRAINT on that COLUMN as a separate entry.
 
@@ -62,7 +62,7 @@ That's about to change :)
 Here is the code syntax to create the -employees- TABLE in the -herbal_cove- DATABASE:
 
 CREATE TABLE employees (
-  id INT(4) NOT NULL,
+  id INT NOT NULL,
   name VARCHAR(50) NOT NULL,
   hire_date DATE NOT NULL,
   phone_number CHAR(14) UNIQUE,

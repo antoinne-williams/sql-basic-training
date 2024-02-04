@@ -60,8 +60,8 @@ TABLE: employees
       +---------------+--------------------+-----------------------+------------------------------------+-----------------------+
       | name (COLUMN) | hire_date (COLUMN) | phone_number (COLUMN) | email_address (COLUMN)             | job_title (COLUMN)    |
       +---------------+--------------------+-----------------------+------------------------------------+-----------------------+
-ROW ->| Arya Stark    | 01/01/1000         | 555-5555              | arya.stark@winterfell.com          | Faceless Water Dancer |
-ROW ->| Jon Snow      | 04/21/1003         | 555-2222              | jon.snow@kingofthewildlings.com    | Rightful King         |
+ROW ->| Arya Stark    | 01-01-1000         | 555-5555              | arya.stark@winterfell.com          | Faceless Water Dancer |
+ROW ->| Jon Snow      | 04-21-1003         | 555-2222              | jon.snow@kingofthewildlings.com    | Rightful King         |
       +---------------+--------------------+-----------------------+------------------------------------+-----------------------+
 
 This was a long one...thanks for hanging in there. I'll keep the recap short.
